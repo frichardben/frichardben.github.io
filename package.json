@@ -1,0 +1,9 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "repository": "https://github.com/frichardben/frichardben.github.io.git",
+  "author": "Richard Ben <frichardben@yahoo.com.br>",
+  "license": "MIT"
+}

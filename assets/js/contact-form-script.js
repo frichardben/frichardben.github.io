@@ -20,7 +20,7 @@ function submitForm(){
 
 
     $.ajax({
-        url: "https://formspree.io/{{ site.email }}",
+        url: "https://formspree.io/{{ frichardben@yahoo.com.br }}",
         method: "POST",
         data: "name=" + name + "&email=" + email + "&msg_subject=" + msg_subject + "&message=" + message,
         success : function(text){
